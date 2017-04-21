@@ -33,18 +33,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "60A329401EAA2748003911F8"
-               BuildableName = "BitriseExampleTests.xctest"
-               BlueprintName = "BitriseExampleTests"
-               ReferencedContainer = "container:BitriseExample.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60A3294B1EAA2748003911F8"
-               BuildableName = "BitriseExampleUITests.xctest"
-               BlueprintName = "BitriseExampleUITests"
+               BuildableName = "BitriseExampleV1Tests.xctest"
+               BlueprintName = "BitriseExampleV1Tests"
                ReferencedContainer = "container:BitriseExample.xcodeproj">
             </BuildableReference>
          </TestableReference>
