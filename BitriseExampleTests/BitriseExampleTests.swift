@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import BitriseExampleV2
+@testable import BitriseExampleV1
 
 class BitriseExampleTests: XCTestCase {
     
