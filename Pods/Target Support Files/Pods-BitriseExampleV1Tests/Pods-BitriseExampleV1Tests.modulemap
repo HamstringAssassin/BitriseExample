@@ -1,6 +1,0 @@
-framework module Pods_BitriseExampleV1Tests {
-  umbrella header "Pods-BitriseExampleV1Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

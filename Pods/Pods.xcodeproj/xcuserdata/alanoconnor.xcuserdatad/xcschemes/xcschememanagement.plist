@@ -9,22 +9,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-BitriseExampleTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-BitriseExampleV1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-BitriseExampleV1Tests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-BitriseExampleV2.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-BitriseExampleV2Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -42,7 +37,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2D468CEC32258DA092406D7A1D20E846</key>
+		<key>25D6718D08A60231BBF02E5A18FFE181</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3AF96B37343F325755C8D4FDBFACFFFA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -53,16 +53,6 @@
 			<true/>
 		</dict>
 		<key>7BA1BE553DEDD41D233B18C780D1C686</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>8EE695E84307609C9AE7F9FF828CB131</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A71A854F87BD788F2804AD80FB377E02</key>
 		<dict>
 			<key>primary</key>
 			<true/>

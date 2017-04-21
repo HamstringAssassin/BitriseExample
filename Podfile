@@ -6,14 +6,6 @@ target 'BitriseExampleV1' do
   use_frameworks!
 
   # Pods for BitriseExampleV1
-
-  target 'BitriseExampleV1Tests' do
-    inherit! :search_paths
-    # Pods for testing
-    pod 'Quick'
-    pod 'Nimble'
-  end
-
 end
 
 target 'BitriseExampleV2' do
@@ -22,11 +14,13 @@ target 'BitriseExampleV2' do
 
   # Pods for BitriseExampleV2
 
-  target 'BitriseExampleV2Tests' do
-    inherit! :search_paths
-    # Pods for testing
-    pod 'Quick'
-    pod 'Nimble'
-  end
+end
 
+
+target 'BitriseExampleTests' do
+  inherit! :search_paths
+  use_frameworks!
+  # Pods for testing
+  pod 'Quick'
+  pod 'Nimble'
 end

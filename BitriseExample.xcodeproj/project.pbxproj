@@ -21,6 +21,7 @@
 		60A329661EAA278F003911F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60A329341EAA2748003911F8 /* Main.storyboard */; };
 		93E8688A1099297CCDCCFC4A /* Pods_BitriseExampleV1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22032556AACBD1DFD6E2DE87 /* Pods_BitriseExampleV1Tests.framework */; };
 		99CC62AB95A5AEC991CD37E1 /* Pods_BitriseExampleV1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FD6A6838BA138C1F7A79F8A /* Pods_BitriseExampleV1.framework */; };
+		A4F1030D4D3EF3C9E33AF5BB /* Pods_BitriseExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3ECE0D9C7AF07F8789C56B5 /* Pods_BitriseExampleTests.framework */; };
 		E993C3D521F1B9A953EB8700 /* Pods_BitriseExampleV2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417467A88621C32325DDFAE1 /* Pods_BitriseExampleV2.framework */; };
 /* End PBXBuildFile section */
 
@@ -62,11 +63,14 @@
 		60A3296A1EAA278F003911F8 /* BitriseExampleV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BitriseExampleV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A3296B1EAA278F003911F8 /* BitriseExampleV2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "BitriseExampleV2-Info.plist"; path = "/Users/alanoconnor/git/BitriseExample/BitriseExampleV2-Info.plist"; sourceTree = "<absolute>"; };
 		60A329891EAA327C003911F8 /* BitriseExampleTests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "BitriseExampleTests copy-Info.plist"; path = "/Users/alanoconnor/git/BitriseExample/BitriseExampleTests copy-Info.plist"; sourceTree = "<absolute>"; };
+		7638AD92B5A41A68A2A7B15A /* Pods-BitriseExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleTests/Pods-BitriseExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		897998D50C65E1D16E38DFB2 /* Pods-BitriseExampleV1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV1Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV1Tests/Pods-BitriseExampleV1Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9EAAA83E1CDA8B8A633A67E4 /* Pods-BitriseExampleV2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV2/Pods-BitriseExampleV2.debug.xcconfig"; sourceTree = "<group>"; };
+		A3ECE0D9C7AF07F8789C56B5 /* Pods_BitriseExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BitriseExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEC9931721CCF2D1D3FC722D /* Pods-BitriseExampleV1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV1Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV1Tests/Pods-BitriseExampleV1Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AF3D06E2E3818CC3C2516451 /* Pods-BitriseExampleV1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV1.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV1/Pods-BitriseExampleV1.release.xcconfig"; sourceTree = "<group>"; };
 		B7BAA3DDD5A3EBCF43E86BFE /* Pods-BitriseExampleV1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV1/Pods-BitriseExampleV1.debug.xcconfig"; sourceTree = "<group>"; };
+		BED3FF51AE8942F3E9309A54 /* Pods-BitriseExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleTests/Pods-BitriseExampleTests.release.xcconfig"; sourceTree = "<group>"; };
 		C4C76C52C3385D57852A3379 /* Pods-BitriseExampleV2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV2Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV2Tests/Pods-BitriseExampleV2Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EB2B173B896E860F68A601CB /* Pods-BitriseExampleV2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitriseExampleV2.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitriseExampleV2/Pods-BitriseExampleV2.release.xcconfig"; sourceTree = "<group>"; };
 		F2A6174E50FBD4911175DFB6 /* Pods_BitriseExampleV2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BitriseExampleV2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +90,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93E8688A1099297CCDCCFC4A /* Pods_BitriseExampleV1Tests.framework in Frameworks */,
+				A4F1030D4D3EF3C9E33AF5BB /* Pods_BitriseExampleTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -118,6 +123,8 @@
 				EB2B173B896E860F68A601CB /* Pods-BitriseExampleV2.release.xcconfig */,
 				3F4F9CDEDB8C118E0A1CF129 /* Pods-BitriseExampleV2Tests.debug.xcconfig */,
 				C4C76C52C3385D57852A3379 /* Pods-BitriseExampleV2Tests.release.xcconfig */,
+				7638AD92B5A41A68A2A7B15A /* Pods-BitriseExampleTests.debug.xcconfig */,
+				BED3FF51AE8942F3E9309A54 /* Pods-BitriseExampleTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -185,6 +192,7 @@
 				22032556AACBD1DFD6E2DE87 /* Pods_BitriseExampleV1Tests.framework */,
 				417467A88621C32325DDFAE1 /* Pods_BitriseExampleV2.framework */,
 				F2A6174E50FBD4911175DFB6 /* Pods_BitriseExampleV2Tests.framework */,
+				A3ECE0D9C7AF07F8789C56B5 /* Pods_BitriseExampleTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -387,7 +395,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BitriseExampleV1Tests/Pods-BitriseExampleV1Tests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BitriseExampleTests/Pods-BitriseExampleTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		58227254C58713701239EF5D /* [CP] Check Pods Manifest.lock */ = {
@@ -447,7 +455,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BitriseExampleV1Tests/Pods-BitriseExampleV1Tests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BitriseExampleTests/Pods-BitriseExampleTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9470E352AA6D28CC41CAB82A /* [CP] Copy Pods Resources */ = {
@@ -690,7 +698,7 @@
 		};
 		60A329591EAA2748003911F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AEC9931721CCF2D1D3FC722D /* Pods-BitriseExampleV1Tests.debug.xcconfig */;
+			baseConfigurationReference = 7638AD92B5A41A68A2A7B15A /* Pods-BitriseExampleTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -705,7 +713,7 @@
 		};
 		60A3295A1EAA2748003911F8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 897998D50C65E1D16E38DFB2 /* Pods-BitriseExampleV1Tests.release.xcconfig */;
+			baseConfigurationReference = BED3FF51AE8942F3E9309A54 /* Pods-BitriseExampleTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
