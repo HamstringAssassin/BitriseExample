@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         let plistFileName = Bundle.main.infoDictionary?["TargetName"] as! String
         appLabel.text = plistFileName
     }
